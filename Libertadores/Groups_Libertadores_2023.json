@@ -1,0 +1,37 @@
+
+{
+    "First Stage":[
+        "Nacional-PY", "Sport Huancayo", "El Nacional",
+        "Nacional Potosí", "Zamora", "Boston River"
+    ],
+
+    "Second Stage":[
+        "Universidad Católica del Equador", "Milionarios", "Carabobo", "Atlético Mineiro", 
+        "bye3", "Huracán", "bye1", "Sporting Cristal", "Curicó Unido", "Cerro Porteño",
+        "Deportivo Maldonado", "Fortaleza", "bye2", "Independiente Medellín", 
+        "Magallanes", "Always Ready"
+    ],
+
+    "Pot One":[
+        "Flamengo", "River Plate", "Palmeiras", 
+        "Boca Juniors", "Nacional", "Athletico Paranaense",
+        "Independiente del Valle", "Olimpia"
+    ],
+
+    "Pot Two":[
+        "Libertad", "Atlético Nacional", "Internacional", 
+        "Barcelona de Guayaquil", "Racing", "Corinthians",
+        "Colo-Colo", "Fluminense"
+    ],
+
+    "Pot Three":[
+        "Bolívar", "The Strongest", "Melgar", 
+        "Alianza Lima", "Argentinos Juniors", "Metropolitanos",
+        "Aucas", "Monagas"
+    ],
+
+    "Pot Four":[
+        "Liverpool", "Deportivo Pereira", "Ñublense", 
+        "Patronato", "bye1", "bye2", "bye3", "bye4"
+    ]
+}

@@ -1,0 +1,428 @@
+
+{
+    "Alianza Lima": { 
+        "StatsNL22":{
+            "Defense": 7.16,
+            "Midfield": 7.12,
+            "Attack": 6.93,
+            "Bench": 6.87
+        }
+    },
+
+    "Always Ready": { 
+        "StatsNL22":{
+            "Defense": 6.98,
+            "Midfield": 6.84,
+            "Attack": 6.69,
+            "Bench": 6.53
+        }
+    },
+
+    "Argentinos Juniors": { 
+        "StatsNL22":{
+            "Defense": 7.11,
+            "Midfield": 7.13,
+            "Attack": 6.83,
+            "Bench": 6.76
+        }
+    },
+
+    "Athletico Paranaense": { 
+        "StatsNL22":{
+            "Defense": 6.94,
+            "Midfield": 6.94,
+            "Attack": 6.72,
+            "Bench": 6.76
+        }
+    },
+
+    "Atlético Mineiro": { 
+        "StatsNL22":{
+            "Defense": 7.25,
+            "Midfield": 7.10,
+            "Attack": 7.01,
+            "Bench": 6.88
+        }
+    },
+
+    "Atlético Nacional": { 
+        "StatsNL22":{
+            "Defense": 7.04,
+            "Midfield": 7.16,
+            "Attack": 6.72,
+            "Bench": 6.81
+        }
+    },
+
+    "Aucas": { 
+        "StatsNL22":{
+            "Defense": 6.84,
+            "Midfield": 6.69,
+            "Attack": 7.04,
+            "Bench": 6.47
+        }
+    },
+
+
+    "Barcelona de Guayaquil": { 
+        "StatsNL22":{
+            "Defense": 6.88,
+            "Midfield": 7.04,
+            "Attack": 6.73,
+            "Bench": 6.72
+        }
+    },
+
+    "Boca Juniors": { 
+        "StatsNL22":{
+            "Defense": 7.10,
+            "Midfield": 7.09,
+            "Attack": 6.87,
+            "Bench": 6.66
+        }
+    },
+
+    "Bolívar": { 
+        "StatsNL22":{
+            "Defense": 6.89,
+            "Midfield": 6.90,
+            "Attack": 7.01,
+            "Bench": 6.52
+        }
+    },
+
+    "Boston River": { 
+        "StatsNL22":{
+            "Defense": 6.70,
+            "Midfield": 6.84,
+            "Attack": 6.85,
+            "Bench": 6.48
+        }
+    },
+
+    "Carabobo": { 
+        "StatsNL22":{
+            "Defense": 6.68,
+            "Midfield": 6.81,
+            "Attack": 6.81,
+            "Bench": 6.66
+        }
+    },
+
+    "Cerro Porteño": { 
+        "StatsNL22":{
+            "Defense": 6.87,
+            "Midfield": 6.97,
+            "Attack": 6.77,
+            "Bench": 6.65
+        }
+    },
+
+    "Colo-Colo": { 
+        "StatsNL22":{
+            "Defense": 6.77,
+            "Midfield": 7.11,
+            "Attack": 7.03,
+            "Bench": 6.83
+        }
+    },
+
+    "Corinthians": { 
+        "StatsNL22":{
+            "Defense": 7.04,
+            "Midfield": 6.97,
+            "Attack": 6.99,
+            "Bench": 6.83
+        }
+    },
+
+    "Curicó Unido": { 
+        "StatsNL22":{
+            "Defense": 7.05,
+            "Midfield": 6.97,
+            "Attack": 6.97,
+            "Bench": 6.74
+        }
+    },
+
+    "Deportivo Maldonado": { 
+        "StatsNL22":{
+            "Defense": 6.62,
+            "Midfield": 6.64,
+            "Attack": 6.65,
+            "Bench": 6.38
+        }
+    },
+
+    "Deportivo Pereira": { 
+        "StatsNL22":{
+            "Defense": 6.91,
+            "Midfield": 6.79,
+            "Attack": 6.86,
+            "Bench": 6.75
+        }
+    },
+
+    "El Nacional": { 
+        "StatsNL22":{
+            "Defense": 7.10,
+            "Midfield": 6.94,
+            "Attack": 6.48,
+            "Bench": 6.58
+        }
+    },
+
+    "Flamengo": { 
+        "StatsNL22":{
+            "Defense": 7.16,
+            "Midfield": 7.20,
+            "Attack": 7.13,
+            "Bench": 7.04
+        }
+    },
+
+    "Fluminense": { 
+        "StatsNL22":{
+            "Defense": 7.01,
+            "Midfield": 7.13,
+            "Attack": 6.85,
+            "Bench": 6.85
+        }
+    },
+
+    "Fortaleza": { 
+        "StatsNL22":{
+            "Defense": 7.12,
+            "Midfield": 6.95,
+            "Attack": 6.92,
+            "Bench": 6.89
+        }
+    },
+
+    "Huracán": { 
+        "StatsNL22":{
+            "Defense": 7.10,
+            "Midfield": 6.94,
+            "Attack": 6.48,
+            "Bench": 6.58
+        }
+    },
+
+    "Independiente del Valle": { 
+        "StatsNL22":{
+            "Defense": 6.62,
+            "Midfield": 6.97,
+            "Attack": 6.70,
+            "Bench": 6.47
+        }
+    },
+
+    "Independiente Medellín": { 
+        "StatsNL22":{
+            "Defense": 6.96,
+            "Midfield": 7.07,
+            "Attack": 6.95,
+            "Bench": 6.77
+        }
+    },
+
+    "Internacional": { 
+        "StatsNL22":{
+            "Defense": 7.15,
+            "Midfield": 7.30,
+            "Attack": 6.92,
+            "Bench": 6.94
+        }
+    },
+
+    "Libertad": { 
+        "StatsNL22":{
+            "Defense": 7.03,
+            "Midfield": 7.02,
+            "Attack": 6.92,
+            "Bench": 6.75
+        }
+    },
+
+    "Liverpool": { 
+        "StatsNL22":{
+            "Defense": 6.85,
+            "Midfield": 6.70,
+            "Attack": 6.99,
+            "Bench": 6.50
+        }
+    },
+
+    "Magallanes": { 
+        "StatsNL22":{
+            "Defense": 6.92,
+            "Midfield": 6.93,
+            "Attack": 6.74,
+            "Bench": 6.74
+        }
+    },
+
+    "Melgar": { 
+        "StatsNL22":{
+            "Defense": 7.07,
+            "Midfield": 7.01,
+            "Attack": 7.29,
+            "Bench": 6.88
+        }
+    },
+
+    "Metropolitanos": { 
+        "StatsNL22":{
+            "Defense": 7.06,
+            "Midfield": 6.90,
+            "Attack": 6.77,
+            "Bench": 6.57
+        }
+    },
+
+    "Milionarios": { 
+        "StatsNL22":{
+            "Defense": 7.08,
+            "Midfield": 7.08,
+            "Attack": 6.78,
+            "Bench": 6.85
+        }
+    },
+
+    "Monagas": { 
+        "StatsNL22":{
+            "Defense": 6.72,
+            "Midfield": 6.76,
+            "Attack": 6.83,
+            "Bench": 6.36
+        }
+    },
+
+
+    "Nacional": { 
+        "StatsNL22":{
+            "Defense": 6.96,
+            "Midfield": 6.72,
+            "Attack": 6.75,
+            "Bench": 6.50
+        }
+    },
+
+
+    "Nacional-PY": { 
+        "StatsNL22":{
+            "Defense": 6.90,
+            "Midfield": 6.81,
+            "Attack": 6.76,
+            "Bench": 6.42
+        }
+    },
+
+    "Nacional Potosí": { 
+        "StatsNL22":{
+            "Defense": 6.53,
+            "Midfield": 6.79,
+            "Attack": 6.63,
+            "Bench": 6.22
+        }
+    },
+
+    "Ñublense": { 
+        "StatsNL22":{
+            "Defense": 7.05,
+            "Midfield": 6.97,
+            "Attack": 7.02,
+            "Bench": 6.91
+        }
+    },
+
+    "Olimpia": { 
+        "StatsNL22":{
+            "Defense": 7.16,
+            "Midfield": 7.02,
+            "Attack": 6.84,
+            "Bench": 6.72
+        }
+    },
+
+    "Palmeiras": { 
+        "StatsNL22":{
+            "Defense": 7.36,
+            "Midfield": 7.21,
+            "Attack": 6.93,
+            "Bench": 6.90
+        }
+    },
+
+    "Patronato": { 
+        "StatsNL22":{
+            "Defense": 7.01,
+            "Midfield": 6.84,
+            "Attack": 6.88,
+            "Bench": 6.86
+        }
+    },
+
+    "Racing": { 
+        "StatsNL22":{
+            "Defense": 7.16,
+            "Midfield": 7.34,
+            "Attack": 6.89,
+            "Bench": 6.90
+        }
+    },
+
+    "River Plate": { 
+        "StatsNL22":{
+            "Defense": 7.24,
+            "Midfield": 7.11,
+            "Attack": 7.32,
+            "Bench": 6.91
+        }
+    },
+
+    "Sport Huancayo": { 
+        "StatsNL22":{
+            "Defense": 7.02,
+            "Midfield": 7.10,
+            "Attack": 6.94,
+            "Bench": 6.79
+        }
+    },
+
+    "Sporting Cristal": { 
+        "StatsNL22":{
+            "Defense": 6.96,
+            "Midfield": 7.11,
+            "Attack": 7.07,
+            "Bench": 6.80
+        }
+    },
+
+    "The Strongest": { 
+        "StatsNL22":{
+            "Defense": 6.82,
+            "Midfield": 6.81,
+            "Attack": 6.96,
+            "Bench": 6.56
+        }
+    },
+
+    "Universidad Católica del Equador": { 
+        "StatsNL22":{
+            "Defense": 6.86,
+            "Midfield": 7.02,
+            "Attack": 7.00,
+            "Bench": 6.57
+        }
+    },
+
+    "Zamora": { 
+        "StatsNL22":{
+            "Defense": 6.90,
+            "Midfield": 6.60,
+            "Attack": 6.82,
+            "Bench": 6.49
+        }
+    }
+}
